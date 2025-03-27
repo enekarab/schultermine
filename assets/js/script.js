@@ -1,6 +1,4 @@
         const events = [
-        
-            { name: "Mathe Klausur", date: "2025-03-28" },
             { name: "Englisch Klausur", date: "2025-04-01" },
             { name: "Winf Klausur", date: "2025-04-03" },
             { name: "Fahrt Maastricht", date: "2025-04-10" },
